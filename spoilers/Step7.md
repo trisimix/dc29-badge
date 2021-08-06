@@ -8,3 +8,8 @@ Frame 1
 Frame 2
 
 Title of page "1 2 4" and the gif seems to have 2 frames to it.
+
+The answer lies with the song jenny, where the phone number 867-5309 resides in the hook.
+8675309 is the order of the badge type names needed for the next URL
+VendorSpeakerArtistCreatorHumanPressGoon
+https://defcon.org/signal/YourJourneyBegins/AlphabetShift/SandsSaharaAladdin/MC56F8006VLC/VendorSpeakerArtistCreatorHumanPressGoon/
